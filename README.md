@@ -12,11 +12,11 @@ https://leonid-hurevych.github.io/portfolio/
 
 ### Репозиторій проекту
 
-(https://github.com/Leonid-Hurevych/portfolio)
+https://github.com/Leonid-Hurevych/portfolio
 
 ### Загальний репозиторій курсу
 
-(https://github.com/PorokhovnichenkoIryna/kn-2026)
+https://github.com/PorokhovnichenkoIryna/kn-2026
 
 ---
 
